@@ -17,6 +17,7 @@ https://github.com/harshadshinde783/Power-Bi-Superstore-Sales-Analysis/blob/main
 https://github.com/harshadshinde783/Power-Bi-Superstore-Sales-Analysis/blob/main/Dashboard%20Screenshot/Product_Analysis.jpg
 
 ### Page 3 – Region Analysis
+https://github.com/harshadshinde783/Power-Bi-Superstore-Sales-Analysis/blob/main/Dashboard%20Screenshot/Region_analysis.jpg
 
 
 ----
