@@ -29,7 +29,7 @@ customer segments, and regional trends to support data-driven decision making.
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query
-- Excel / CSV (Data Source)
+- Excel(Data Source)
 
 ---
 
