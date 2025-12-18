@@ -54,7 +54,7 @@ power-bi-super-store-analysis/
 ├── Data
 │    ├── SuperStoreOrders (Before Cleaning)
 │
-├── screenshots/
+├── Dashboard screenshots/
 │   ├── overview.png
 │   ├── Product analysis.png
 │   └── Region analysis.png
