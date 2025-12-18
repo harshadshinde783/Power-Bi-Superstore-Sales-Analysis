@@ -11,7 +11,7 @@ customer segments, and regional trends to support data-driven decision making.
 ## Screenshots
 
 ### Page 1 – Overview
-![Page 1](screenshots/page1.png)
+[![Page 1](screenshots/page1.png)](https://github.com/harshadshinde783/Power-Bi-Superstore-Sales-Analysis/blob/main/Screenshots/Overview.png)
 
 ### Page 2 – product Analysis
 ![Page 2](screenshots/page2.png)
