@@ -36,7 +36,15 @@ customer segments, and regional trends to support data-driven decision making.
 ## 📁 Repository Structure
 power-bi-super-store-analysis/
 │
-├── SuperStore_Sales_Analysis.pbit
+├── Data
+│    ├── SuperStoreOrders (Before Cleaning)
+│
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── Product_analysis.png
+│   └── Region_analysis.png
+
+
 ├── README.md
 │
 ├── screenshots/
@@ -44,8 +52,8 @@ power-bi-super-store-analysis/
 │   ├── sales_analysis.png
 │   └── profit_analysis.png
 │
-└── documentation/
-    └── data_dictionary.md
+└── SuperStore_Sales_Analysis.pbit
+     
 
 ---
 
