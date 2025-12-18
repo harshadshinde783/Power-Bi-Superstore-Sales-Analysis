@@ -40,28 +40,24 @@ power-bi-super-store-analysis/
 │    ├── SuperStoreOrders (Before Cleaning)
 │
 ├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── Product_analysis.png
-│   └── Region_analysis.png
-
-
+│   ├── overview.png
+│   ├── Product analysis.png
+│   └── Region analysis.png
+│
 ├── README.md
 │
-├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── sales_analysis.png
-│   └── profit_analysis.png
-│
-└── SuperStore_Sales_Analysis.pbit
+└── Super Store_Sales Analysis.pbit
      
 
 ---
 
 ## 📌 Key Insights
 - Technology category generates the highest revenue
-- West region shows strong profitability
+- Central region shows strong profitability
 - Consumer segment contributes the maximum sales
 - Seasonal trends observed in monthly sales
+- Furniture requires supply chain improvements
+- Strong overall performance, seasonal peaks, and stable shipping costs
 
 ---
 
@@ -76,5 +72,7 @@ power-bi-super-store-analysis/
 ## 💡 Learning Outcomes
 - Practical experience in Power BI dashboard development
 - Data modeling and transformation using Power Query
+- creating new table using create table
+- and aslo createing separate date column for better analysis 
 - Writing business-focused DAX measures
 - Building reusable Power BI templates
